@@ -1,1 +1,1 @@
-include ':app', ':evanlibrary'
+include ':app', ':evanlibrary', ':evanphotolibrary'
